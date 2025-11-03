@@ -11,7 +11,7 @@ edit_url: https://github.com/doocs/leetcode/edit/main/lcof2/%E5%89%91%E6%8C%87%2
 
 <!-- description:start -->
 
-<p>给定一个正整数数组和一个整数&nbsp;<code>k</code><strong> ，</strong>请找到该数组中和为&nbsp;<code>k</code><strong>&nbsp;</strong>的连续子数组的个数。</p>
+<p>给定一个整数数组和一个整数&nbsp;<code>k</code><strong> ，</strong>请找到该数组中和为&nbsp;<code>k</code><strong>&nbsp;</strong>的连续子数组的个数。</p>
 
 <p>&nbsp;</p>
 
@@ -36,7 +36,7 @@ edit_url: https://github.com/doocs/leetcode/edit/main/lcof2/%E5%89%91%E6%8C%87%2
 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
-	<li><code>1000 &lt;= nums[i] &lt;= 1000</code></li>
+	<li><code>-1000 &lt;= nums[i] &lt;= 1000</code></li>
 	<li>
 	<p><code>-10<sup>7</sup>&nbsp;&lt;= k &lt;= 10<sup>7</sup></code></p>
 	</li>
